@@ -38,7 +38,6 @@ Advancement: ML-integration in technology-stack of world-explorer implementation
 ```
 
 ####################################################################################
-
 ####################################################################################
 Ali-Al-Habsyi/Ali-Al-Habsyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
