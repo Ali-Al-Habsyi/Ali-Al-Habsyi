@@ -38,7 +38,27 @@ Advancement: ML-integration in technology-stack of world-explorer implementation
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 ```
 
+####################################################################################
 
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/bs.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/cpp.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/csharp.png" />
+    <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/css.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/dotnet.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/html.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png" />
+    <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/love.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/lua.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/nodejs.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
+    <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/qt.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/scikit.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/sql.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/unity.png" />
+   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/tensorflow.png" />
+</a></p>
 
 ####################################################################################
 
