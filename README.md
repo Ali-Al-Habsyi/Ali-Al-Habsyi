@@ -1,6 +1,6 @@
 #### 
-# Construction X
-
+# Construction X 
+# Machine Learning and General Statistics
 #### Main Pursuit: Construction X (written in Dutch)
 ########################################################################
 
