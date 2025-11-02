@@ -21,3 +21,5 @@ ALL EXISTING SOFTWARE LIBRARIES.
 
 #### STATUS REPORT.
 READING. GOAL: 400 REPORTS, 400 REPOSITORIES, OAGSI I, THE CORE, BY 2027.
+
+#### I do not exaggerate in claiming that I am the best mathematician and software engineer on the planet. 
