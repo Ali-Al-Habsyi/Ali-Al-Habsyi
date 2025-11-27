@@ -23,4 +23,19 @@ ALL EXISTING SOFTWARE LIBRARIES.
 READING. GOAL: 400 REPORTS, 400 REPOSITORIES, OAGSI I, THE CORE, BY 2027.
 
 #### I do not exaggerate in claiming that I am the best mathematician and software engineer on the planet. 
+https://www.youtube.com/watch?v=35G2UYWQ3uw&t=1s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/pleiades-neo/?utm_term=&utm_campaign=002423+-+G-ADS+-+VKS+-+PerfMax+-+Push+-+PNEO+-+NonBrand+-+US+-+EU&utm_source=adwords&utm_medium=ppc&hsa_acc=6084062488&hsa_cam=22407982541&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22407987032&gbraid=0AAAAABLeC4p4jpJ18uv9fbPyXEdAxmFnt&gclid=Cj0KCQjwgpzIBhCOARIsABZm7vF4WcW2mByY-YyGIvYmGgBuwPyyB8rW1dFffsh40_ZRvWyQPII64K0aAnETEALw_wcB
