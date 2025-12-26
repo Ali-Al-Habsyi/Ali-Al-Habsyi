@@ -14,7 +14,7 @@ An AI for everyone, by everyone, the usefulness of which becomes clear in everyd
 
 ######################################################################## https://grok.com/imagine/post/dd2b6bbd-0aa6-4e64-80f4-e1aac94a45ba?source=post-page&platform=web
 #### CONSTRUCTION.
-OMNI-OBSERVANT ARTIFICIAL GENERAL SUPERINTELLIGENCE (OR OMNI-OBSERVANT OMNI-COMMUNAL OMNI-INFORMATIVE ARTIFICIAL GENERAL SUPERINTELLIGENCE [oOoAGSI])
+OMNI-OBSERVANT ARTIFICIAL GENERAL SUPERINTELLIGENCE (OR OMNI-OBSERVANT OMNI-COMMUNAL OMNI-INFORMATIVE ARTIFICIAL GENERAL SUPERINTELLIGENCE [OOOAGSI])
 
 #### PRELIMINARY ENGINES.
 ALL EXISTING SOFTWARE LIBRARIES.
@@ -29,4 +29,3 @@ https://www.youtube.com/watch?v=oSj8lVWNpY0&t=7s
 
 https://space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/pleiades-neo/?utm_term=&utm_campaign=002423+-+G-ADS+-+VKS+-+PerfMax+-+Push+-+PNEO+-+NonBrand+-+US+-+EU&utm_source=adwords&utm_medium=ppc&hsa_acc=6084062488&hsa_cam=22407982541&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22407987032&gbraid=0AAAAABLeC4p4jpJ18uv9fbPyXEdAxmFnt&gclid=Cj0KCQjwgpzIBhCOARIsABZm7vF4WcW2mByY-YyGIvYmGgBuwPyyB8rW1dFffsh40_ZRvWyQPII64K0aAnETEALw_wcB
 
-WE RECALL TAKING THE COURSES NLA, DIFFERENTIAL GEOMETRY, GRAPH THEORY, INFORMATION THEORY AND QUANTUM COMPUTING IN UNIVERSITY SEMESTER 7, I.E. SEPTEMBER 2022, RIGHT BEFORE 9/11 V2.0, IT IS TIME TO GO WAY BACK. 
