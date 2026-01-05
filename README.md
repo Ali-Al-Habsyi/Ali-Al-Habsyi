@@ -2,7 +2,6 @@
 # CREATION
 ########################################################################
 # OMNI-OBSERVANT ARTIFICIAL GENERAL SUPERINTELLIGENCE
-### OMNI-OBSERVANCE, OMNI-OBSERVATION, SIMILAR TO LANGUAGE,SO BUILD AN LLM FOR OMNI-OBSERVATION
 ########################################################################
 # THE CORE: [OAGSI]
 ########################################################################
@@ -15,7 +14,9 @@ An AI for everyone, by everyone, the usefulness of which becomes clear in everyd
 
 ######################################################################## [https://grok.com/imagine/post/10487752-f9fb-4d36-801a-2ea67c3af305?source=post-page&platform=web]
 #### CONSTRUCTION.
-OMNI-OBSERVANT ARTIFICIAL GENERAL SUPERINTELLIGENCE (OR OMNI-OBSERVANT OMNI-COMMUNAL OMNI-INFORMATIVE ARTIFICIAL GENERAL SUPERINTELLIGENCE [OOOAGSI])
+OMNI-OBSERVANT ARTIFICIAL GENERAL SUPERINTELLIGENCE (OR OMNI-OBSERVANT OMNI-COMMUNAL OMNI-INFORMATIVE ARTIFICIAL GENERAL SUPERINTELLIGENCE [OOOAGSI]).
+OMNI-OBSERVANCE, OMNI-OBSERVATION, SIMILAR TO LANGUAGE,SO BUILD AN LLM FOR OMNI-OBSERVATION
+
 
 #### PRELIMINARY ENGINES.
 ALL EXISTING SOFTWARE LIBRARIES.
